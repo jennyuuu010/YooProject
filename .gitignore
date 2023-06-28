@@ -48,11 +48,11 @@ SourceArt/**/*.tga
 # Binary Files
 Binaries/*
 Plugins/*/Binaries/*
-YooGameProject/.vs/
-YooGameProject/DerivedDataCache/*
-YooGameProject/Binaries/*
-YooGameProject/Intermediate/*
-YooGameProject/Saved/*
+YooProject/.vs/
+YooProject/DerivedDataCache/*
+YooProject/Binaries/*
+YooProject/Intermediate/*
+YooProject/Saved/*
 YooGameProject.sln
 
 # Builds
