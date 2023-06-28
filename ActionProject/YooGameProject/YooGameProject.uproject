@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "ActionProject",
+			"Name": "YooGameProject",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}

@@ -3,12 +3,12 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class ActionProjectEditorTarget : TargetRules
+public class YooGameProjectEditorTarget : TargetRules
 {
-	public ActionProjectEditorTarget( TargetInfo Target) : base(Target)
+	public YooGameProjectEditorTarget( TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-		ExtraModuleNames.AddRange( new string[] { "ActionProject" } );
+		ExtraModuleNames.AddRange( new string[] { "YooGameProject" } );
 	}
 }

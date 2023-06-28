@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class ActionProject : ModuleRules
+public class YooGameProject : ModuleRules
 {
-	public ActionProject(ReadOnlyTargetRules Target) : base(Target)
+	public YooGameProject(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
